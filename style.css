@@ -1,0 +1,28 @@
+/* style.css */
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+/* style.css */
+h1 {
+  color: white;
+
+  font-size: 3em;
+  font-family: 'Courier', cursive;
+}
+
+input {
+  background-color: black;
+  outline-color: black;
+  color: white;
+  
+      }
+button{
+  background-color: black;
+  outline-color: black;
+ border-color: black;
+  color: white;
+}
